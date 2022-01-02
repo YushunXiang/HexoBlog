@@ -50,7 +50,7 @@ hexo init
 
 此步完成后，你将看到如下内容
 
-![image-20220102210432168](使用Hexo-Netlify搭建你的个人博客/image-20220102210432168.png)
+![image-20220102210432168](image-20220102210432168.png)
 
 
 
@@ -60,7 +60,7 @@ hexo init
  hexo server
 ```
 
-![image-20220102175430091](使用Hexo-Netlify搭建你的个人博客/image-20220102175430091.png)
+![image-20220102175430091](image-20220102175430091.png)
 
 可以通过 `Ctrl` + 鼠标右键 访问
 
@@ -68,7 +68,7 @@ hexo init
 
 ### 二、创建GitHub仓库
 
-![image-20220102172443485](使用Hexo-Netlify搭建你的个人博客/image-20220102172443485.png)
+![image-20220102172443485](image-20220102172443485.png)
 
 
 
@@ -94,7 +94,7 @@ git push origin master
 
 其中，`<your SSH code>`为下图所示的内容，我这里是`git@github.com:YushunXiang/HexoBlog.git`
 
-![image-20220102172957834](使用Hexo-Netlify搭建你的个人博客/image-20220102172957834.png)
+![image-20220102172957834](image-20220102172957834.png)
 
 这样，你就把本地的代码库与GitHub上的远程库关联在一起了
 
@@ -108,7 +108,7 @@ git push origin master
 
 授权 Netlify 访问您的 Github 存储库，并进行设置
 
-![image-20220102181627363](使用Hexo-Netlify搭建你的个人博客/image-20220102181627363.png)
+![image-20220102181627363](image-20220102181627363.png)
 
 
 
@@ -116,5 +116,5 @@ git push origin master
 
 下图的框出部分就是你的网站网址了！你可以点击访问。
 
-![image-20220102182225569](使用Hexo-Netlify搭建你的个人博客/image-20220102182225569.png)
+![image-20220102182225569](image-20220102182225569.png)
 
