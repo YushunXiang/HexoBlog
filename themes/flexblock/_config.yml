@@ -8,7 +8,7 @@ menu:
 banner: https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg
 
 # 站点通知信息
-notice: flex-block主题部分重构，详情查看https://github.com/miiiku/flex-block
+# notice: flex-block主题部分重构，详情查看https://github.com/miiiku/flex-block
 
 # 作者信息
 author:
@@ -80,7 +80,7 @@ social_icon:
   enable: true
   icons:
     ins     :
-    zhihu   :
+    zhihu   : https://www.zhihu.com/people/upbeat-40
     weibo   : 
     github  : https://github.com/YushunXiang
     twitter : 
