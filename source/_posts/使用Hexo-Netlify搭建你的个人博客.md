@@ -1,7 +1,8 @@
 ---
 title: 使用Hexo + Netlify搭建你的个人博客
 date: 2022-01-02 21:00:48
-tags: 学习
+categories: 博客
+tags: 环境配置
 toc: true
 comment: 'disqus'
 ---
