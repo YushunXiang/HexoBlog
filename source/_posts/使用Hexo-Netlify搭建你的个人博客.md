@@ -9,7 +9,7 @@ comment: 'disqus'
 
 因为疫情封宿舍了，闲来无聊决定创建一个网站，来随便记录一下日常生活。
 
-
+Hexo是一个快速、简洁且高效的博客框架，Netlify是一个提供静态资源托管的网络平台。本文实现的是基于Windows平台的，利用Hexo博客框架，利用Github来托管我们的博客项目，最后使用Netlify将Github仓库上的代码自动部署到CDN上，使得国内用户也可以正常访问（虽然访问速度有点慢）
 
 ## 在创建博客之前的准备工作
 
@@ -124,3 +124,7 @@ git push origin master
 ## 参考资料
 
 [Hexo帮助文档](https://hexo.io/zh-cn/docs/)
+
+[Fluid主题配置指南](https://hexo.fluid-dev.com/docs/guide/)
+
+[Fluid主题Github仓库](https://github.com/fluid-dev/hexo-theme-fluid)
