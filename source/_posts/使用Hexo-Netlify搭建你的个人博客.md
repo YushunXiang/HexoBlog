@@ -1,7 +1,7 @@
 ---
 title: 使用Hexo + Netlify搭建你的个人博客
 date: 2022-01-02 21:00:48
-tags:
+tags: 学习
 ---
 
 因为疫情封宿舍了，闲来无聊决定创建一个网站，来随便记录一下日常生活。
@@ -118,3 +118,6 @@ git push origin master
 
 ![image-20220102182225569](image-20220102182225569.png)
 
+## 参考资料
+
+[Hexo帮助文档](https://hexo.io/zh-cn/docs/)
