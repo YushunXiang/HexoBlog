@@ -115,7 +115,7 @@ Q Learning
 
 
 
-### 图标总结
+### 图表总结
 
 | Sarsa      | Q Learning | Policy Gradients |
 | ---------- | ---------- | ---------------- |
