@@ -3,6 +3,7 @@ title: Pytorch-线性回归的从零开始实现
 date: 2022-01-20 23:47:12
 tags: 学习笔记
 categories: 深度学习
+math: true
 ---
 
 [参考教程：DIVE INTO DEEP LEARNING](https://zh-v2.d2l.ai/chapter_linear-networks/linear-regression-scratch.html)
@@ -53,7 +54,7 @@ d2l.plt.scatter(features[:, (1)].detach().numpy(), labels.detach().numpy(), 1)
 d2l.plt.show()
 ```
 
-![image-20220121001356955](image-20220121001356955.png)
+![散点图](image-20220121001356955.png)
 
 ## 2. 读取数据集
 
