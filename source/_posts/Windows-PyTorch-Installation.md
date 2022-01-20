@@ -14,4 +14,4 @@ categories: 深度学习
 
 ## 注意点
 
-1. `PyTorch`必须与电脑中的`Cuda`版本相一致。若不一致，则需要下载对应版本的`Cuda`。我下载的时CUDA 10.2版本。[CUDA Toolkit 10.2 Download](https://developer.nvidia.com/cuda-10.2-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal)
+1. `PyTorch`必须与电脑中的`Cuda`版本相一致。若不一致，则需要下载对应版本的`Cuda`。我下载的是CUDA 10.2版本。[CUDA Toolkit 10.2 Download](https://developer.nvidia.com/cuda-10.2-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal)
