@@ -875,7 +875,7 @@ about:
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com/YushunXiang", tip: "GitHub" }
     - { class: "iconfont icon-zhihu-fill", link: "https://www.zhihu.com/people/upbeat-40", tip: "知乎" }
-#    - { class: "iconfont icon-wechat-fill", qrcode: "/img/favicon.png", tip: "微信" }
+    - { class: "iconfont icon-wechat-fill", qrcode: "/img/WeChatImg.jpg", tip: "微信" }
 
 
 #---------------------------
