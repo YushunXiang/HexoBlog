@@ -7,7 +7,7 @@ categories: 强化学习
 
 
 
-[相关论文](Multimodal-Machine-Learning-A-Survey-and-Taxonomy\Multimodal Machine Learning A Survey and Taxonomy.pdf)
+[相关论文](https://eager-murdock-e61bfe.netlify.app/2022/01/22/multimodal-machine-learning-a-survey-and-taxonomy/Multimodal_Machine_Learning_A_Survey_and_Taxonomy.pdf)
 
 ## 1. Introduction
 
@@ -45,7 +45,7 @@ Joining information from two or more modalities to **perform a prediction**.
 
 **Transferring knowledge** between modalities, their representation, and their predictive models. 
 
-![A summary of applications enabled by multimodal machine learning.](Multimodal-Machine-Learning-A-Survey-and-Taxonomy/image-20220122191151114.png)
+![A summary of applications enabled by multimodal machine learning.](image-20220122191151114.png)
 
 以上是对多模态研究的五个方向的简略介绍，将在下文详细介绍。
 
@@ -83,7 +83,9 @@ Some examples:
 
 
 
-## 4. Translation
+## 4. Translation (Mapping)
 
+概念：转化也称为映射，负责将一个模态的信息转换为另一个模态的信息。
 
+应用：
 
