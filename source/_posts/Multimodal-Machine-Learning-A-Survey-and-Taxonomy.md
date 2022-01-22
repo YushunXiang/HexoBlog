@@ -5,7 +5,7 @@ tags: 学习笔记
 categories: 强化学习
 ---
 
-[相关论文](Multimodal-Machine-Learning-A-Survey-and-Taxonomy\Multimodal Machine Learning A Survey and Taxonomy.pdf)
+[相关论文](https://eager-murdock-e61bfe.netlify.app/2022/01/22/multimodal-machine-learning-a-survey-and-taxonomy/Multimodal_Machine_Learning_A_Survey_and_Taxonomy.pdf)
 
 ## 1. Introduction
 
