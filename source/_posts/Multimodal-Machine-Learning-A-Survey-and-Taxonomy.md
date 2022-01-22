@@ -5,7 +5,9 @@ tags: 学习笔记
 categories: 强化学习
 ---
 
-[相关论文](https://eager-murdock-e61bfe.netlify.app/2022/01/22/multimodal-machine-learning-a-survey-and-taxonomy/Multimodal_Machine_Learning_A_Survey_and_Taxonomy.pdf)
+
+
+[相关论文](Multimodal-Machine-Learning-A-Survey-and-Taxonomy\Multimodal Machine Learning A Survey and Taxonomy.pdf)
 
 ## 1. Introduction
 
@@ -20,6 +22,8 @@ A research problem or dataset is therefore characterized as *multimodal* when it
 3. vocal signals
 
 ### C. Five challenges in Multimodal Machine Learning
+
+也就是多模态研究的五个方向。
 
 #### 1) Representation
 
@@ -41,9 +45,45 @@ Joining information from two or more modalities to **perform a prediction**.
 
 **Transferring knowledge** between modalities, their representation, and their predictive models. 
 
+![A summary of applications enabled by multimodal machine learning.](Multimodal-Machine-Learning-A-Survey-and-Taxonomy/image-20220122191151114.png)
+
+以上是对多模态研究的五个方向的简略介绍，将在下文详细介绍。
 
 
-![A summary of applications enabled by multimodal machine learning.](image-20220122191151114.png)
+
+## 2. APPLICATIONS: A HISTORICAL PERSPECTIVE
+
+Some examples:
+
+1. audio-visual speech recognition (AVSR) 视听语音识别
+2. the field of multimedia content indexing and retrieval 多媒体内容的索引和检索
+3. visual question-answering 视觉问答
+
+
+
+## 3. MULTIMODAL REPRESENTATIONS
+
+多模态表示学习是指通过利用多模态之间的互补性，剔除模态间的冗余性，从而学习到更好的特征表示。
+
+
+
+多模态表示分为两类：
+
+### A. Joint representation 联合表示
+
+概念：联合表示将多个模态的信息一起映射到一个统一的多模态向量空间
+
+应用：
+
+### B. Coordinated Representation 协同表示
+
+概念：协同表示负责将多模态中的每个模态分别映射到各自的表示空间，但映射后的向量之间满足一定的相关性约束（例如线性相关）
+
+应用：
+
+
+
+## 4. Translation
 
 
 
