@@ -71,15 +71,17 @@ Some examples:
 
 ### A. Joint representation 联合表示
 
-概念：联合表示将多个模态的信息一起映射到一个统一的多模态向量空间
+概念：联合表示将多个模态的信息一起映射到一个统一的多模态向量空间，适用于推理期间存在所有模态的情况
 
-应用：
+应用： AVSR, affect, multimodal gesture recognition.
 
 ### B. Coordinated Representation 协同表示
 
 概念：协同表示负责将多模态中的每个模态分别映射到各自的表示空间，但映射后的向量之间满足一定的相关性约束（例如线性相关）
 
-应用：
+应用：multimodal retrieval and translation,  grounding,  zero shot learning.
+
+![A summary of multimodal representation techniques.](image-20220122223249302.png)
 
 
 
@@ -87,5 +89,24 @@ Some examples:
 
 概念：转化也称为映射，负责将一个模态的信息转换为另一个模态的信息。
 
-应用：
+应用：主要应用于NLP。
+
+早期研究：
+
++ speech synthesis
++ visual speech generation
++ video description
++ video description
+
+
+
+多模态翻译可以分为两类：
+
+### Exampled-based 基于实例的多模态翻译
+
+
+
+### Generative 生成式的多模态翻译
+
+
 
