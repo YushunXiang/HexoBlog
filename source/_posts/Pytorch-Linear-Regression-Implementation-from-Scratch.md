@@ -425,3 +425,6 @@ for epoch in range(num_epochs):
         print(f'epoch {epoch + 1}, loss {float(train_l.mean()):f}')
 ```
 
+## 写在最后
+
+当然，强大的PyTorch有很多现成的函数可以供我们使用，还想要继续了解请看这篇文章：[线性回归的简洁实现](https://zh-v2.d2l.ai/chapter_linear-networks/linear-regression-concise.html)

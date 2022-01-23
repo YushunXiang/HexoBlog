@@ -2,7 +2,7 @@
 title: 多模态机器学习的调查和分类法
 date: 2022-01-22 17:40:23
 tags: 学习笔记
-categories: 强化学习
+categories: 深度学习
 ---
 
 
@@ -213,4 +213,40 @@ Some examples:
 ###  Model-based approaches 基于模型的方法
 
 在构建中显式处理融合的基于模型的方法。更适用于多模态数据
+
+#### Multiple kernel learning (MKL)  多核学习
+
+
+
+#### Graphical models 图形模型
+
+
+
+#### Neural Networks 神经网络
+
+
+
+## 5. CO-LEARNING
+
+ 
+
+### Parallel data
+
+并行模式来自相同的数据集，实例之间存在直接对应关系
+
+#### 
+
+
+
+### Non-parallel data
+
+分并行模式来自不同的数据集，没有重叠的实例，但在一般类别或概念上有重叠
+
+
+
+### Hybrid data
+
+混合——实例或概念通过第三种模式或数据集进行桥接。
+
+
 
