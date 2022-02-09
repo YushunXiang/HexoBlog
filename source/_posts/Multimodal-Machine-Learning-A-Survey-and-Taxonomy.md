@@ -228,19 +228,39 @@ Some examples:
 
 ## 5. CO-LEARNING
 
- 
+ ![ Types of data parallelism used in co-learning](image-20220124002404774.png)
 
 ### Parallel data
 
 并行模式来自相同的数据集，实例之间存在直接对应关系
 
-#### 
+#### Co-training 协同训练
+
+是在多模态问题中只有少量的标记样本时，生成更多标记样本的过程
+
+#### Transfer learning 转移训练
+
+利用并行数据协同学习的另一种方法。
 
 
 
 ### Non-parallel data
 
 分并行模式来自不同的数据集，没有重叠的实例，但在一般类别或概念上有重叠
+
+#### Transfer learning 
+
+
+
+#### Conceptual grounding 概念基础
+
+指学习语义意义或概念，不仅仅是基于语言，还包括视觉、听觉、甚至是嗅觉等附加形式。
+
+
+
+#### Zero shot learning (ZSL) 零距离学习
+
+指在没有明确看到任何例子的情况下识别概念。
 
 
 
