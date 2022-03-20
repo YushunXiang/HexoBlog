@@ -44,3 +44,4 @@ $$
 $$
 \frac{\partial{\left[\frac{f(\pmb{x})}{g(\pmb{x})}\right]}}{\partial{\pmb{x}}} =  \frac{1}{g^2(\pmb{x})}\left[ \frac{\partial f(\pmb{x})}{\partial{\pmb{x}}}g(\pmb{x}) -f(\pmb{x})\frac{\partial g(\pmb{x})}{\partial{\pmb{x}}}   \right]
 $$
+
