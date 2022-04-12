@@ -22,7 +22,7 @@ math: true
 
 我们将图像分割成固定大小的块，线性嵌入每个块，添加位置嵌入，并将生成的向量序列馈送到标准的`Transformer`编码器。为了执行分类，我们使用向序列添加额外可学习的“分类标记”的标准方法。
 
-![ViT模型总览](Vision-Transformer/Model-Overview.png)
+![ViT模型总览](Model-Overview.png)
 
 
 
