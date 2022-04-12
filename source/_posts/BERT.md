@@ -48,6 +48,7 @@ BERT的全称是**B**idirectional **E**ncoder **R**epresentations from **T**rans
 + `[CLS]`表示句子的开头
 + `[SEP]`表示句子的结束
 + `[MASK]`表示利用`Masked Language Model`处理的词
++ `[PAD]`表示空白符
 
 
 

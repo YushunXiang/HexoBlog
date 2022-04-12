@@ -11,3 +11,6 @@ categories: 深度学习
 
 [参考文章](https://luweikxy.gitbook.io/machine-learning-notes/self-attention-and-transformer)
 
+[一系列关于Transformer的好文](https://zhuanlan.zhihu.com/p/348593638)
+
+[论文代码](https://github.com/tensorflow/tensor2tensor)
